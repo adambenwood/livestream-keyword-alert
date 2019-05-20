@@ -9,7 +9,7 @@ import time
 import ffmpy
 
 LOOPS = 2
-stream_url = "http://ykf.dyndns.org:8000/wrps7.ogg"
+stream_url = ""
 KEYWORDS = ['marker', '279']
 
 if __name__ == '__main__':
